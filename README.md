@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <br>
+<br>
+<br>
 
-<p align="center"><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg">
+<p style="margin: 0 auto; max-width: 760px"><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg">
 <img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"></p>
 
 <div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /></div>
