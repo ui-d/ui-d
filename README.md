@@ -27,10 +27,10 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💻 &nbsp; currently working for Ziflow.com
-- 🌱 &nbsp; learning Typescript and Node.js
-- 👯 &nbsp; looking to collaborate on open source projects
-- 📫 &nbsp; How to reach me: dawiddeveloper@gmail.com
+- 👉 &nbsp; currently working for Ziflow.com
+- 👉 &nbsp; learning Typescript and Node.js
+- 👉 &nbsp; looking to collaborate on open source projects
+- 👉 &nbsp; How to reach me: dawiddeveloper@gmail.com
 
 <br />
 
