@@ -1,4 +1,4 @@
-<p align="center"><img width="500" height="125" src="https://github.com/ui-d/ui-d/blob/main/flamingo.gif?raw=true"></p>
+<p align="center"><img width="313" height="77" src="https://github.com/ui-d/ui-d/blob/main/flamingo.gif?raw=true"></p>
 
 <p>
   <h1 align="center"><b>Hello there, I'm Dawid 👋</b></h1>
@@ -15,7 +15,7 @@
 
 <br>
 
-  <img align="right" alt="GIF" src="https://github.com/ui-d/ui-d/blob/main/unnamed.gif?raw=true" />
+  <img width="470" align="right" alt="GIF" src="https://github.com/ui-d/ui-d/blob/main/unnamed.gif?raw=true" />
 
 <a href="https://www.facebook.com/uideveloper2020"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://youtube.com/uideveloper"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - 👉 &nbsp; learning Typescript and Node.js
 - 👉 &nbsp; looking to collaborate on open source projects
 - 👉 &nbsp; How to reach me: dawiddeveloper@gmail.com
-
-<br />
 
 <p><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg">
 <img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"></p>
