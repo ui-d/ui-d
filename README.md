@@ -1,7 +1,7 @@
 <p align="center"><img width="313" height="77" src="https://github.com/ui-d/ui-d/blob/main/flamingo.gif?raw=true"></p>
 
 <p>
-  <h1 align="center"><b>Hello there, I'm Dawid 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Dawid 🦩</b></h1>
 </p>
 
 <p>
