@@ -29,14 +29,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👨‍💻 I’m currently working for Ziflow.com
+- 🌱 I’m currently learning Typescript and Node.js
+- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: dawiddeveloper@gmail.com
 
 <br>
 <br>
@@ -45,4 +42,8 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg">
 <img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"></p>
 
-<div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /></div>
+<br>
+<br>
+<br>
+
+<div><img src="https://raw.githubusercontent.com/ui-d/ui-d/6128b2551965081308a3d28155cd59af68d677c4/Vector.svg" /></div>
