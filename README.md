@@ -1,4 +1,4 @@
-<p align="center"><img width="313" height="77" src="https://github.com/ui-d/ui-d/blob/main/flamingo.gif?raw=true"></p>
+<p align="center"><img width="313" height="77" src="https://github.com/ui-d/ui-d/blob/main/transparent.gif?raw=true"></p>
 
 <p>
   <h1 align="center"><b>Hello there, I'm Dawid 🦩</b></h1>
@@ -15,7 +15,7 @@
 
 <br>
 
-  <img width="470" align="right" alt="GIF" src="https://github.com/ui-d/ui-d/blob/main/unnamed.gif?raw=true" />
+  <img width="470" align="right" alt="GIF" src="https://github.com/ui-d/ui-d/blob/main/transparent-anim.gif?raw=true" />
 
 <a href="https://www.facebook.com/uideveloper2020"><img src="https://img.shields.io/badge/facebook-%2323435f.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://youtube.com/uideveloper"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram" /></a>&nbsp;
