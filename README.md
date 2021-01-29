@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - &nbsp; looking to collaborate on open source projects
 - &nbsp; How to reach me: dawiddeveloper@gmail.com
 
+<br><br><br>
+
 <p><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg">
 <img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"></p>
 
