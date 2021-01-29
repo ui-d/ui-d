@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div><img src="https://raw.githubusercontent.com/ui-d/ui-d/6128b2551965081308a3d28155cd59af68d677c4/Vector.svg" /></div>
+<div><img src="https://raw.githubusercontent.com/ui-d/ui-d/6128b2551965081308a3d28155cd59af68d677c4/Footer.svg" /></div>
