@@ -32,7 +32,34 @@ Here are some ideas to get you started:
 - &nbsp; looking to collaborate on open source projects
 - &nbsp; How to reach me: dawiddeveloper@gmail.com
 
-<br><br><br>
+<br><br>
+
+<details>
+    <summary><b>So far, I've worked for:</b></summary><br/>
+
+- First
+- Second
+- Third
+
+</details>
+<details>
+    <summary><b>So far, I've worked for:</b></summary><br/>
+
+- First
+- Second
+- Third
+
+</details>
+<details>
+    <summary><b>So far, I've worked for:</b></summary><br/>
+
+- First
+- Second
+- Third
+
+</details>
+
+<br>
 
 <hr>
 <br>
