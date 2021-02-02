@@ -56,14 +56,15 @@
 </tr>
 
 <tr>
-<td><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg"></td>
+<td>
+<br><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg"></td>
 
-<td><img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"></td>
+<td><img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"><br></td>
 
 </tr>
 
 </table>
 
 <table><tr><td>
-
-<img src="https://raw.githubusercontent.com/ui-d/ui-d/ac9eeef3728fe2c9023f26a05784a5250116692d/footer.svg" /><p align="center">Cheers!</p></td></tr></table>
+<br>
+<img src="https://raw.githubusercontent.com/ui-d/ui-d/ac9eeef3728fe2c9023f26a05784a5250116692d/footer.svg" /><p align="center">Cheers!</p><br></td></tr></table>
