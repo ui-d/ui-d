@@ -18,7 +18,7 @@
 <a href="https://youtube.com/uideveloper"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/dawid-nawrocki/"><img src="https://img.shields.io/badge/linkedin-%2323435f.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br><br>
-Here are some ideas to get you started:
+<h3>Here are some ideas to get you started:</h3>
 
 - &nbsp; currently working for Ziflow.com
 - &nbsp; learning Typescript and Node.js
