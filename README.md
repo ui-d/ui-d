@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td><a href="https://www.facebook.com/uideveloper2020"><img src="https://img.shields.io/badge/facebook-%2323435f.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<td width="50%"><a href="https://www.facebook.com/uideveloper2020"><img src="https://img.shields.io/badge/facebook-%2323435f.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://youtube.com/uideveloper"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/dawid-nawrocki/"><img src="https://img.shields.io/badge/linkedin-%2323435f.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br><br>
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-<td><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg"></td>
+<td><img align="center" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg"></td>
 
-<td><img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"></td>
+<td><img align="center" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"></td>
 
 </tr>
 
