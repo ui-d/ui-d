@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 
 </table>
 
-<div><img src="https://raw.githubusercontent.com/ui-d/ui-d/ac9eeef3728fe2c9023f26a05784a5250116692d/footer.svg" /></div>
+<table><tr><td><img src="https://raw.githubusercontent.com/ui-d/ui-d/ac9eeef3728fe2c9023f26a05784a5250116692d/footer.svg" /></td></tr></table>
