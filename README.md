@@ -24,9 +24,9 @@
 - &nbsp; learning Typescript and Node.js
 - &nbsp; interested in 2D / 3D visualization
 - &nbsp; How to reach me: dawiddeveloper@gmail.com
-
+<br><br>
 <details>
-    <summary><b>So far, I've worked for:</b></summary><br/>
+    <summary><b>So far, I've worked for:</b></summary>
 
 - Upwork
 - Netguru
@@ -34,7 +34,7 @@
 
 </details>
 <details>
-    <summary><b>Favourite technologies:</b></summary><br/>
+    <summary><b>Favourite technologies:</b></summary>
 
 - JavaScript
 - Vue.js
@@ -43,7 +43,7 @@
 
 </details>
 <details>
-    <summary><b>Currently working on:</b></summary><br/>
+    <summary><b>Currently working on:</b></summary>
 
 - YouTube Channel
 
