@@ -28,25 +28,24 @@ Here are some ideas to get you started:
 <details>
     <summary><b>So far, I've worked for:</b></summary><br/>
 
-- First
-- Second
-- Third
+- Upwork
+- Netguru
+- Ziflow
 
 </details>
 <details>
-    <summary><b>So far, I've worked for:</b></summary><br/>
+    <summary><b>Favourite technologies:</b></summary><br/>
 
-- First
-- Second
-- Third
+- JavaScript
+- Vue.js
+- React.js
+- CSS3
 
 </details>
 <details>
-    <summary><b>So far, I've worked for:</b></summary><br/>
+    <summary><b>Currently working on:</b></summary><br/>
 
-- First
-- Second
-- Third
+- YouTube Channel
 
 </details>
 
@@ -66,5 +65,5 @@ Here are some ideas to get you started:
 </table>
 
 <table><tr><td>
-<p align="center">Cheers!</p>
-<img src="https://raw.githubusercontent.com/ui-d/ui-d/ac9eeef3728fe2c9023f26a05784a5250116692d/footer.svg" /></td></tr></table>
+
+<img src="https://raw.githubusercontent.com/ui-d/ui-d/ac9eeef3728fe2c9023f26a05784a5250116692d/footer.svg" /><p align="center">Cheers!</p></td></tr></table>
