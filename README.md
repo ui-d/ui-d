@@ -23,7 +23,6 @@
 - &nbsp; currently working for Ziflow.com
 - &nbsp; learning Typescript and Node.js
 - &nbsp; interested in 2D / 3D visualization
-- &nbsp; How to reach me: dawiddeveloper@gmail.com
 <br><br>
 <details>
     <summary><b>So far, I've worked for:</b></summary>
