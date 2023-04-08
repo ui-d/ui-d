@@ -24,15 +24,9 @@
 
 - JavaScript / TypeScript / Node
 - React.js/Next.js/Vue.js
-- Tailwind
 
 </details>
-<details>
-    <summary><b>Currently working on:</b></summary>
 
-- YouTube Channel
-
-</details>
 
 <td>  <img width="470" alt="GIF" src="https://github.com/ui-d/ui-d/blob/main/transparent-anim.gif?raw=true" /></td>
 
