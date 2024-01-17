@@ -1,47 +1,81 @@
-
-<table>
-<tr>
-<td width="50%"><a href="https://www.facebook.com/dawid.nawrocki86"><img src="https://img.shields.io/badge/facebook-%2323435f.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<!-- <a href="https://youtube.com/uideveloper"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram" /></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/dawid-nawrocki/"><img src="https://img.shields.io/badge/linkedin-%2323435f.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<br><br>
-<h3>Here are some ideas to get you started:</h3>
-
-- Currently working for Pilot.co
-- I am a frontend developer / growth engineer / indie hacker
-<br><br>
-<details>
-    <summary><b>So far, I've worked for:</b></summary>
-
-- Upwork
-- Netguru
-- Ziflow
-- Pilot.co
-
-</details>
-<details>
-    <summary><b>Favourite technologies:</b></summary>
-
-- JavaScript / TypeScript / Node
-- React.js/Next.js/Vue.js
-
-</details>
+<h1 align="right">Dawid Nawrocki</h1>
 
 
-<td>  <img width="470" alt="GIF" src="https://github.com/ui-d/ui-d/blob/main/transparent-anim.gif?raw=true" /></td>
 
-</td>
+<h4 align="right">Growth Engineer .ᐟ Next.js Developer .ᐟ Indie Hacker</h4>
 
-</tr>
+###
 
-<tr>
-<td>
-<br><img align="left" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/overview.svg"><br></td>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
 
-<td><br><img align="right" src="https://raw.githubusercontent.com/ui-d/stats/5ed16d30a8a675f66f2336802f694047d3f87e4f/generated/languages.svg"><br></td>
+###
 
-</tr>
+<h2 align="left">Skills</h2>
 
-</table>
+###
 
-<table><tr><td>
+<h6 align="left">T3 Stack ┃ Serverless ┃ Jamstack ┃ Low-code ┃ SaaS Growth</h6>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Worked for: Netguru, Ziflow, Plane, Hygraph and more...<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</p>
+
+###
+
+<h2 align="left">Technology</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="40" alt="gatsby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" height="40" alt="jamstack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ui-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ui-d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ui-d/count.svg?"  />
+</div>
+
+###
