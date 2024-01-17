@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Technology</h2>
+<h2 align="center">Technology</h2>
 
 ###
 
