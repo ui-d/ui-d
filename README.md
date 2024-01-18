@@ -25,7 +25,7 @@
 
 ###
 
-<h6 align="left">Netguru ┃ Ziflow ┃ Pilot ┃ Hygraph ┃ and more</h6>
+<h6 align="left">Upwork | Netguru ┃ Ziflow ┃ Pilot ┃ Hygraph ┃ and more</h6>
 
 ###
 
