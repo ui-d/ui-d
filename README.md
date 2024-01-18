@@ -17,7 +17,9 @@
 
 ###
 
-<h6 align="left">Frontend developer with expertise in both frontend and backend development. I am highly focused on the technical and business aspects of web development.
+<h6 align="left">Frontend developer with expertise in both frontend and backend development. I am highly focused on the technical and
+marketing aspects of web development and optimization to deliver scalable and efficient web applications. Possessing a strong
+business growth mindset, I strive to understand the client's objectives and deliver solutions that align with their business goals.
 </h6>
 
 ###
