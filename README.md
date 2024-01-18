@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Passionate about growth engineering, dedicated to developing SaaS solutions and open source projects<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</p>
+<p align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Passionate about growth engineering<br>╰┈➤  Dedicated to developing SaaS solutions and open source projects<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</p>
 
 ###
 
