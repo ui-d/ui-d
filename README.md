@@ -13,6 +13,15 @@
 
 ###
 
+<h2 align="left">Summary</h2>
+
+###
+
+<h6 align="left">Frontend developer with expertise in both frontend and backend development. I am highly focused on the technical and business aspects of web development.
+</h6>
+
+###
+
 <h2 align="left">Skills</h2>
 
 ###
