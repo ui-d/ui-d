@@ -6,10 +6,10 @@
 
 ###
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
+<p align="right">
+  <a href="https://linkedin.com/in/dawid-nawrocki"><img src="https://www.svgrepo.com/show/108614/linkedin.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://twitter.com/groengine"><img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="twitter logo" /></a>
+</p>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Passionate about growth engineering<br>╰┈➤  Dedicated to developing SaaS solutions and open source projects<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</p>
+<p align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Passionate about growth engineering<br>╰┈➤  Dedicated to developing SaaS solutions and open source projects<br>╰┈➤ Low-code and AI solutions explorer<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</p>
 
 ###
 
