@@ -6,10 +6,9 @@
 
 ###
 
-<p style="background-color: darkgray; border-radius: 5px" align="right">
-<br>
-  <a href="https://linkedin.com/in/dawid-nawrocki"><img src="https://www.svgrepo.com/show/108614/linkedin.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://twitter.com/groengine"><img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="twitter logo" /></a>
+<p align="right">
+  <a href="https://linkedin.com/in/dawid-nawrocki"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.svg" width="52" height="52" alt="linkedin logo" /></a>
+  <a href="https://twitter.com/groengine"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-round-icon.png" width="52" height="52" alt="twitter logo" /></a>
 </p>
 
 ###
