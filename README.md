@@ -6,7 +6,8 @@
 
 ###
 
-<p align="right">
+<p style="background-color: gray; border-radius: 5px" align="right">
+<br>
   <a href="https://linkedin.com/in/dawid-nawrocki"><img src="https://www.svgrepo.com/show/108614/linkedin.svg" width="52" height="40" alt="linkedin logo" /></a>
   <a href="https://twitter.com/groengine"><img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="twitter logo" /></a>
 </p>
