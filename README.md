@@ -7,9 +7,8 @@
 ###
 
 <p align="right">
-  <a href="https://linkedin.com/in/dawid-nawrocki"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.svg" width="52" height="52" alt="linkedin logo" /></a>
-<img width="5"></img>
-  <a href="https://twitter.com/groengine"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-round-icon.png" width="52" height="52" alt="twitter logo" /></a>
+  <a href="https://linkedin.com/in/dawid-nawrocki"><img src="./linkedin.png" width="52" height="52" alt="linkedin logo" /></a>
+  <a href="https://twitter.com/groengine"><img src="./x.png" width="52" height="52" alt="twitter logo" /></a>
 </p>
 
 ###
