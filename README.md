@@ -1,3 +1,7 @@
+<h1>Build. Improve. Repeat.</h1>
+
+<img src="./hero.png" alt="twitter logo" />
+
 <h1 align="right">Dawid Nawrocki</h1>
 
 
