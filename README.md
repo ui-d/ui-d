@@ -1,6 +1,6 @@
 <h1>BUILD. IMPROVE. REPEAT.</h1>
 
-<img src="./hero-github.webp" alt="twitter logo" />
+<img src="./hero-github-new.webp" alt="twitter logo" />
 
 <h1 align="right">Dawid Nawrocki</h1>
 
