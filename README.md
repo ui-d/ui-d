@@ -1,6 +1,6 @@
 <h1>BUILD. IMPROVE. REPEAT.</h1>
 
-<img src="./hero.png" alt="twitter logo" />
+<img src="./hero.webp" alt="twitter logo" />
 
 <h1 align="right">Dawid Nawrocki</h1>
 
@@ -90,18 +90,11 @@ business growth mindset, I strive to understand the client's objectives and deli
 
 <br>
 
-<table style="width:100%">
-  <tr>
-    <th>Row 1 Col 1</th>
-  </tr>
-  <tr>
-    <td>Row 1 Col 1</td>
-  </tr>
-  <tr>
-    <td>Row 1 Col 1</td>
-  </tr>
+...in progress...
 
-</table>
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
 
 <div align="center">
