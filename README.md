@@ -90,11 +90,18 @@ business growth mindset, I strive to understand the client's objectives and deli
 
 <br>
 
-| Header 1 | Header 2 | Header 3 |
-|----------|:--------:|:---------:|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+<table style="width:100%">
+  <tr>
+    <th>Row 1 Col 1</th>
+  </tr>
+  <tr>
+    <td>Row 1 Col 1</td>
+  </tr>
+  <tr>
+    <td>Row 1 Col 1</td>
+  </tr>
+
+</table>
 
 
 <div align="center">
