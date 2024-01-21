@@ -1,4 +1,4 @@
-<h1>Build. Improve. Repeat.</h1>
+<h1>BUILD. IMPROVE. REPEAT.</h1>
 
 <img src="./hero.png" alt="twitter logo" />
 
@@ -48,7 +48,7 @@ business growth mindset, I strive to understand the client's objectives and deli
 
 ###
 
-<p align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Passionate about growth engineering<br>╰┈➤  Dedicated to developing SaaS solutions and open source projects<br>╰┈➤ Low-code and AI solutions explorer<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</p>
+<h6 align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Passionate about growth engineering<br>╰┈➤  Dedicated to developing SaaS solutions and open source projects<br>╰┈➤ Low-code and AI solutions explorer<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</h6>
 
 ###
 
@@ -89,6 +89,13 @@ business growth mindset, I strive to understand the client's objectives and deli
 ###
 
 <br>
+
+| Header 1 | Header 2 | Header 3 |
+|----------|:--------:|:---------:|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ui-d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
