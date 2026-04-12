@@ -1,75 +1,62 @@
+<div align="center">
 
-<img src="./github-profile.jpg" alt="twitter logo" />
-
-<h1 align="right">Dawid Nawrocki</h1>
-
-
-
-<h4 align="right">Growth Engineer .ᐟ Next.js Developer .ᐟ Indie Hacker</h4>
-
-###
-
-<p align="right">
-  <a href="https://linkedin.com/in/dawid-nawrocki"><img src="./linkedin.png" width="52" height="52" alt="linkedin logo" /></a>
-  <a href="https://twitter.com/groengine"><img src="./x.png" width="52" height="52" alt="twitter logo" /></a>
-</p>
-
-###
-
-<h2 align="left">Summary</h2>
-
-###
-
-<h6 align="left">Frontend developer with expertise in both frontend and backend development. I am highly focused on the technical and
-marketing aspects of web development and optimization to deliver scalable and efficient web applications. Possessing a strong
-business growth mindset, I strive to understand the client's objectives and deliver solutions that align with their business goals.
-</h6>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<h6 align="left">SSG/SSR/CSR | Design System | Performance Optimization | Technical SEO | A/B Testing | SaaS Growth</h6>
-
-###
-
-<h2 align="left">Experience</h2>
-
-###
-
-<h6 align="left">Upwork | Netguru ┃ Ziflow ┃ Pilot ┃ Hygraph ┃ and more</h6>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<h6 align="left">╰┈➤  Creating bugs since 2010<br>╰┈➤  Passionate about growth engineering<br>╰┈➤  Dedicated to developing SaaS solutions and open source projects<br>╰┈➤ Low-code and AI solutions explorer<br>╰┈➤ Goals: Solve problems like madman<br>╰┈➤ Fun fact: Spent 10 years in music schools</h6>
-
-###
-
-<h2 align="center">Technology</h2>
-
-###
-
-<h6 align="left">T3 Stack ┃ Serverless ┃ Jamstack ┃ Low-code ┃ Testing</h6>
-
+<img src="./github-profile.jpg" alt="Build. Improve. Repeat. — three monochrome abstract cards" width="100%" />
 
 <br>
 
-...in progress...
+### Dawid Nawrocki
 
-| <div style="width:290px">property</div> | description                           |
-| --------------------------------------- | ------------------------------------- |
-| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+**Growth Engineer / Next.js Developer / Indie Hacker**
 
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ui-d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<a href="https://linkedin.com/in/dawid-nawrocki">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/groengine">
+  <img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=fff" alt="X" />
+</a>
+&nbsp;
+<a href="https://youtube.com/@GrowthEngineerAI">
+  <img src="https://img.shields.io/badge/YouTube-000?style=flat&logo=youtube&logoColor=fff" alt="YouTube" />
+</a>
+&nbsp;
+<a href="https://dawidat.work">
+  <img src="https://img.shields.io/badge/Website-000?style=flat&logo=safari&logoColor=fff" alt="Website" />
+</a>
+
 </div>
 
+###
+
+#### Now
+
+Building growth engineering tools at **[Appsmith](https://github.com/appsmithorg)**.  
+Focused on open-source low-code platforms, technical SEO, and SaaS growth.
+
+#### Toolbox
+
+**Domains** &mdash; SSG/SSR/CSR, Design Systems, Performance Optimization, Technical SEO, A/B Testing, SaaS Growth
+
+**Tech** &mdash; Next.js, TypeScript, Tailwind CSS, T3 Stack, Serverless, Jamstack, Low-code, Testing
+
+#### Background
+
+Previously at Upwork, Netguru, Ziflow, Pilot, and Hygraph.  
+Creating bugs since 2010. Spent 10 years in music schools.  
+Solving problems and shipping open-source software.
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ui-d&show_icons=true&hide_border=true&hide_title=true&count_private=true&icon_color=000&text_color=333&bg_color=00000000" height="160" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ui-d&layout=compact&hide_border=true&hide_title=true&langs_count=6&text_color=333&bg_color=00000000" height="160" alt="Top languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Build. Improve. Repeat.</sub>
+</div>
