@@ -72,19 +72,5 @@ Sound Production postgrad. New Media Studies master's. Shipping code since forev
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ui-d&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ui-d&show_icons=true&hide_border=true&hide_title=true&count_private=true&icon_color=000&text_color=333&bg_color=00000000" height="160" alt="GitHub stats" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ui-d&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=github_dark&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ui-d&layout=compact&hide_border=true&hide_title=true&langs_count=6&text_color=333&bg_color=00000000" height="160" alt="Top languages" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
   <sub>Build. Improve. Repeat.</sub>
 </div>
