@@ -34,40 +34,73 @@
 
 ###
 
-#### Now
+> Growth Engineer at **[Appsmith](https://github.com/appsmithorg)** — technical lead for web platform and growth systems.
+> Shipping experiments, building attribution pipelines, and applying AI-first workflows to accelerate delivery 3x.
 
-Growth Engineer at **[Appsmith](https://github.com/appsmithorg)** — technical lead for web platform and growth systems.  
-Shipping experiments, building attribution pipelines, and applying AI-first workflows to accelerate delivery 3x.
+<br>
 
-#### Toolbox
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI-First** &mdash; Claude Code, Cursor, Lovable, v0.dev, AI Agents, LLM Integration
+#### Stack
 
-**Frontend** &mdash; TypeScript, React, Next.js, Gatsby, Vue, Tailwind, GSAP, Storybook
+<img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=fff" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=fff" /> <img src="https://img.shields.io/badge/GraphQL-000?style=flat-square&logo=graphql&logoColor=fff" /> <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=fff" /> <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=fff" /> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff" /> <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=fff" /> <img src="https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright&logoColor=fff" />
 
-**Backend** &mdash; Node.js, Python, Serverless/Edge, REST APIs, GraphQL
+</td>
+<td width="50%" valign="top">
 
-**Data & Analytics** &mdash; Mixpanel, Segment, GA4, BigQuery, PostgreSQL, Supabase, Amplitude
+#### Growth & AI
 
-**Growth Stack** &mdash; A/B Testing, Experimentation, Attribution, PLG, Technical SEO, CRO
+<img src="https://img.shields.io/badge/Claude_Code-000?style=flat-square&logo=anthropic&logoColor=fff" /> <img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=fff" /> <img src="https://img.shields.io/badge/Segment-000?style=flat-square&logo=segment&logoColor=fff" /> <img src="https://img.shields.io/badge/Mixpanel-000?style=flat-square&logo=mixpanel&logoColor=fff" /> <img src="https://img.shields.io/badge/BigQuery-000?style=flat-square&logo=googlebigquery&logoColor=fff" /> <img src="https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n&logoColor=fff" /> <img src="https://img.shields.io/badge/Webflow-000?style=flat-square&logo=webflow&logoColor=fff" /> <img src="https://img.shields.io/badge/Contentful-000?style=flat-square&logo=contentful&logoColor=fff" /> <img src="https://img.shields.io/badge/Storyblok-000?style=flat-square&logo=storyblok&logoColor=fff" /> <img src="https://img.shields.io/badge/HubSpot-000?style=flat-square&logo=hubspot&logoColor=fff" /> <img src="https://img.shields.io/badge/Salesforce-000?style=flat-square&logo=salesforce&logoColor=fff" /> <img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=fff" />
 
-**Automation** &mdash; n8n, Make.com, Zapier, Airtable, Webhooks, Lead Enrichment
+</td>
+</tr>
+</table>
 
-**CMS & Low-Code** &mdash; Contentful, Storyblok, Webflow, Appsmith, Builder.io
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Testing & DevOps** &mdash; Jest, Playwright, Cypress, GitHub Actions, Docker, CI/CD
+**[GrowthOS](https://growthos.fyi)**  
+Open-source PLG toolkit — activation specs, tracking plans, KPI dashboards.  
+`200+ growth teams`
 
-#### Projects
+</td>
+<td width="50%" valign="top">
 
-**[GrowthOS](https://growthos.fyi)** &mdash; Open-source PLG toolkit for activation specs, tracking plans, and KPI dashboards. Used by 200+ growth teams.
+**[PanelPack Pro](https://dawidat.work)**  
+AI-powered interview scorecard builder for hiring teams.  
+`500+ scorecards generated`
 
-**PanelPack Pro** &mdash; AI-powered interview scorecard builder for hiring teams. 500+ scorecards generated.
+</td>
+</tr>
+</table>
 
-#### Background
+<br>
 
-10+ years building acquisition systems and PLG engines for US SaaS companies.  
-Previously at Stenn, Hygraph, Pilot, Ziflow, and Netguru. Freelancing since 2009.  
-Sound Production postgrad. New Media Studies master's. Shipping code since forever.
+<details>
+<summary><strong>Background</strong></summary>
+
+<br>
+
+```
+10+ years building acquisition systems and PLG engines for US SaaS companies
+```
+
+| | Company | Role | Period |
+|---|---|---|---|
+| **>** | **Appsmith** | Growth Engineer | 2024 — now |
+| | Stenn | Web Engineer (Marketing) | 2024 |
+| | Hygraph | Frontend Developer (Marketing) | 2023 — 2024 |
+| | Pilot | Growth Engineer | 2022 — 2023 |
+| | Ziflow | Web Developer (Marketing) | 2019 — 2022 |
+| | Netguru | UI Developer | 2019 |
+| | Freelance | Web Developer | 2009 — now |
+
+**Education** — Polish-Japanese Academy of IT (Sound Production) · Adam Mickiewicz University (New Media Studies, MA)
+
+</details>
 
 ###
 
